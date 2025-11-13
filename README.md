@@ -16,8 +16,8 @@ Paper Reference
 
 ## References
 
-1. Lin T, Wang Q, Jiang C, et al. Spectral-diagonalization-based matrix exponential integration for efficient and stable solutions of full-Bloch equations in surface NMR[J]. *Computers & Geosciences*, 2025: 106073.  
-   Available at: [https://authors.elsevier.com/c/1m3X5MMTPwTpz](https://authors.elsevier.com/c/1m3X5MMTPwTpz)
+Lin T, Wang Q, Jiang C, et al. Spectral-diagonalization-based matrix exponential integration for efficient and stable solutions of full-Bloch equations in surface NMR[J]. *Computers & Geosciences*, 2025: 106073.  
+
 ---
 
 ## File Descriptions
