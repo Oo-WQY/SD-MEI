@@ -4,6 +4,20 @@
 **SD-MEI (Spectral-Diagonalization-based Matrix Exponential Integration)** is a highly efficient algorithm for solving the Bloch equation, primarily used in forward modeling of surface nuclear magnetic resonance (sNMR). Compared to traditional numerical methods such as RK4, SD-MEI improves computational efficiency by one to two orders of magnitude, significantly accelerating the modeling process, especially for long-duration sequences like SSFP.
 
 ---
+Paper Reference 
+
+- Title: Spectral-Diagonalization-Based Matrix Exponential Integration for Efficient and Stable Solutions of Full-Bloch Equations in Surface NMR
+
+- Authors: Lin T, Wang Q, Jiang C, et al.
+
+- Journal: Computers & Geosciences, 2025, Article 106073.
+
+- Link: https://authors.elsevier.com/c/1m3X5MMTPwTpz
+
+Citation (Markdown Code):
+[1] Lin T, Wang Q, Jiang C, et al. Spectral-diagonalization-based matrix exponential integration for efficient and stable solutions of full-Bloch equations in surface NMR[J]. *Computers & Geosciences*, 2025: 106073.  
+Available at: https://authors.elsevier.com/c/1m3X5MMTPwTpz
+---
 
 ## File Descriptions
 
